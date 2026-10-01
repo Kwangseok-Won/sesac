@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "continue.continue",
+    "editorconfig.editorconfig",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "charliermarsh.ruff",
+    "sonarsource.sonarlint-vscode",
+    "jgclark.vscode-todo-highlight",
+    "tombi-toml.tombi",
+    "meta.pyrefly",
+    "oderwat.indent-rainbow",
+    "dotenv.dotenvx-vscode",
+    "edwinhuish.better-comments-next",
+    "dotenv.dotenv-vscode",
+    "cardinal90.multi-cursor-case-preserve",
+    "pylens.pylens"
+  ]
+}
