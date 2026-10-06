@@ -10,3 +10,6 @@ b = a            # b는 a를 '복사'한 게 아니라 '같은 리스트'를 가
 
 b.append(4)
 print(a)          # [1,2,3,4] — a도 바뀌어버렸다!
+
+print(id(a))
+print(id(b))
