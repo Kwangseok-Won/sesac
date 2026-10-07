@@ -6,3 +6,9 @@ for name, score in scores.items():
 
 for idx, value in enumerate(scores):
     print(idx, value)
+
+
+print("-" * 40)
+
+for name, score in zip(scores.keys(), scores.values()):
+    print(f"{name}: {score}점")

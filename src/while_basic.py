@@ -8,7 +8,7 @@
 count = 1
 while count <= 5:
     print(f"{count}번째")
-    count += 1 # 이걸 빠뜨리면 무한루프!
+    count += 1  # 이걸 빠뜨리면 무한루프!
 
-print(count)
+print(count)  # 6
 print("끝")
